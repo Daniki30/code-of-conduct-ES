@@ -51,12 +51,12 @@ Por otro lado, el club de Software EPN penalizará con la **restricción del acc
 
 Si se considera que alguien ha violado este código de conducta, le animamos a que informe de ello. Si no se tiene la certeza de si el incidente es una infracción, o si el espacio donde sucedió está cubierto por este código de conducta, se recomienda que se reporte de todos modos.
 
-Los reportes se pueden realizar de forma anónima o personalmente.
+Los reportes se pueden realizar de forma anónima o personal.
 
 ### Reportar de forma anónima
 
 Se puede realizar un reporte anónimo llenando el siguiente
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSc9h39BmOIUzGfEQVpVubek_4vpsbS2Xb7OuYFr6bhvDXsIFA/viewform?usp=sf_link" target="_blank">formulario</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSc9h39BmOIUzGfEQVpVubek_4vpsbS2Xb7OuYFr6bhvDXsIFA/viewform?usp=sf_link" target="_blank">formulario.</a>
 
 ### Reporte personal
 
